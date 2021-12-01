@@ -141,6 +141,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Angielski.cpp" />
+    <ClCompile Include="sprawdzarka.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sprawdzarka.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
